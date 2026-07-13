@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">¡Hola! 👋 Soy Edgar Remos Maldonado</h1>
 
-<!--
-**edgar-remos/edgar-remos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Full Stack Developer en formación | Bases de Datos | Automatización | Gastronomía</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+
+🎓 Estudiante de Gastronomía en Universidad Aliat.
+
+💻 Certificado como Desarrollador de Sistemas y Redes.
+
+🛠️ Me apasiona desarrollar aplicaciones web, automatizar procesos y crear soluciones tecnológicas.
+
+📍 Puebla, México 🇲🇽
+
+---
+
+## 💻 Tecnologías
+
+- HTML5
+- CSS3
+- JavaScript
+- Node.js
+- Express
+- MongoDB
+- SQL
+- Java
+- Git
+- Power BI
+
+---
+
+## 📂 Proyectos
+
+🍽️ Taquería El Pelucho
+
+📦 Sistema de Inventario
+
+📊 Dashboard Power BI
+
+🤖 Automatización con IA
+
+---
+
+## 📫 Contacto
+
+📧 edgarremos23@gmail.com
+
+📱 7762263307
